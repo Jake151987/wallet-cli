@@ -203,7 +203,7 @@ OwnerAddress
 > The address of the witness's account, it is a base58check type address.
 
 brokerage
-> The ratio of brokerage you want to update to, the limit of it: 0-100.
+> The ratio of brokerage you want to update to, the limit of it: 0-100. If enter 5, that means 5% of the rewards will be distributed to you, and the rest will go to the voters.
 
 For example:
 
