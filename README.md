@@ -203,7 +203,7 @@ OwnerAddress
 > The address of the witness's account, it is a base58check type address.
 
 brokerage
-> The ratio of brokerage you want to update to, the limit of it: 0-100.
+> The ratio of brokerage you want to update to, the limit of it: 0-100. If enter 20, it means the SR will received 20% of the rewards, and the rest will be rewarded to the voters, in this case, it is 80%.
 
 For example:
 
