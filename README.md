@@ -11,6 +11,7 @@ If you need any help, please join the [Telegram](https://t.me/troncoredevscommun
     git clone https://github.com/tronprotocol/wallet-cli.git
 
 ### Edit config.conf in src/main/resources
+Please make sure the `config.conf` is in the same directory as `wallet-cli.jar` so that the client will be able to load it when starts.
 
 ```
 net {
